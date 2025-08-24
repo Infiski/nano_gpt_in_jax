@@ -25,8 +25,3 @@ Compared to the PyTorch baseline, the JAX implementation achieves up to **40× f
 - [Optax](https://github.com/deepmind/optax)  
 - CUDA/cuDNN (if using NVIDIA GPUs)  
 
-## Usage
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/gpt2-jax.git
-   cd gpt2-jax
